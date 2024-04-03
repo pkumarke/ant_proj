@@ -28,7 +28,7 @@
 			<td>Country :</td>
 			<td><form:select path="country">
 				<form:option value="0" label="Select" />
-				<form:option value="1" label="IND" />
+				<form:option value="1" label="ADD" />
 				<form:option value="2" label="CHN" />
 				<form:option value="3" label="US" />
 				<form:option value="4" label="UK" />
@@ -56,7 +56,7 @@
 	</table>
  <h1> ************************************ </h1>
 
-<table width="50%" bgcolor="blue" align="center" border=3>
+<table width="50%" bgcolor="red" align="center" border=3>
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
